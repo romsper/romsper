@@ -1,5 +1,5 @@
 ### Hi there, I'm ✨ romsper ✨ - as Roman Speranskii 👋 
-![](https://komarev.com/ghpvc/?username=romsper) [![](https://img.shields.io/static/v1?label=Telegram&message=%23&logo=Telegram&color=%23fe8e86)](http://t.me/romsper_qa_buddy) ![](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romsper/)
+![](https://komarev.com/ghpvc/?username=romsper) [![](https://img.shields.io/static/v1?label=Telegram&message=%23&logo=Telegram&color=%23fe8e86)](http://t.me/romsper_qa_buddy) [![](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/romsper/)
 ## I'm an Android and Backend <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 />, QA Guru and Teacher! 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=romsper&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTI5MHc1NndqYW5weGsxYzdvbGtudTU4aTBucHM5bXF2NXd5ZThiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" alt="Programmation" width="200" />
 
