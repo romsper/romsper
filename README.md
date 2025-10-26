@@ -22,16 +22,3 @@ In my free time, I work on **open-source projects** that allow the community to 
 <br /> 
 <br /> 
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/romsper)
-
-<br /> 
-<a href="https://github.com/romsper/testing-basic-automation-frameworks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=romsper&repo=testing-basic-automation-frameworks" />
-</a>
-<a href="https://github.com/romsper/testing-playground-frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=romsper&repo=testing-playground-frontend" />
-</a>
-<br /> 
-<br /> 
-<a href="https://github.com/romsper/testing-playground-backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=romsper&repo=testing-playground-backend" />
-</a>
